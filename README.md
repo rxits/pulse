@@ -2,12 +2,19 @@
 
 # ⬤ Pulse
 
-### Live Visitor Mission-Control
+### Watch the world hit your page — live.
 
-**A real-time analytics dashboard for a public page — it records every visit, plots
-anonymous visitors on a 3D globe by their public IP, and streams the whole thing live.**
+**Real-time visitor mission-control: every visit lands the instant it happens, anonymous
+IPs resolve to an approximate city, and the whole planet lights up on a spinning 3D globe
+as traffic streams in.**
 
 Not another admin panel. A command center that feels *alive*.
+
+<br/>
+
+[![Hiring Assignment · e42.ai](https://img.shields.io/badge/Hiring_Assignment-e42.ai-0b0b0b?style=for-the-badge&labelColor=0b0b0b)](https://e42.ai)
+&nbsp;
+[![Built by Rakshit (rxit)](https://img.shields.io/badge/Built_by-Rakshit_%28rxit%29-0b0b0b?style=for-the-badge&labelColor=0b0b0b)](https://github.com/rxits)
 
 <br/>
 
@@ -16,6 +23,10 @@ Not another admin panel. A command center that feels *alive*.
 </div>
 
 ---
+
+> **Hiring assignment.** Pulse was built by **Rakshit** ([rxit](https://github.com/rxits)) as a
+> take-home for **[e42.ai](https://e42.ai)** — a three-line brief (tiles, a table, three charts,
+> and record anonymous visitors by their public IP) turned into a live mission-control.
 
 ## What this is
 
@@ -145,12 +156,13 @@ invitation to make the *experience* the point — so I chased the version of a v
 dashboard I'd actually want to keep open on a second monitor: something live, spatial, and a
 little bit alive.
 
-If this is the kind of care you want on your team — sweating the real-IP edge cases,
-validating chart colors for accessibility, and turning a three-line spec into something
-people lean in to look at — **I'd love to join and build more of it with you.** 🚀
+If this is the kind of care you want on your team at **[e42.ai](https://e42.ai)** — sweating
+the real-IP edge cases, validating chart colors for accessibility, and turning a three-line
+spec into something people lean in to look at — **I'd love to join and build more of it with
+you.** 🚀
 
 ---
 
 <div align="center">
-<sub>Pulse — live visitor analytics · built as a take-home, with care.</sub>
+<sub>Pulse — live visitor analytics · a hiring assignment by <a href="https://github.com/rxits">Rakshit (rxit)</a> for <a href="https://e42.ai">e42.ai</a>, built with care.</sub>
 </div>
